@@ -15,7 +15,7 @@ you dont need to build in a new branch (gh-pages) or under a folder (docs).
 just push the repo and set the master/root as pages, gh automatically do the build and deploy
 
 ### Reference
-- https://jekyllrb.com/docs/structure/
+- JEKYLL STRUCTURE https://jekyllrb.com/docs/structure/
 
 
 
