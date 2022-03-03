@@ -11,7 +11,7 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 - [Blog - minima](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)
 
 ### Tips
-** HOW TO DEPLOY ** 
+**HOW TO DEPLOY** 
 
 you dont need to build in a new branch (gh-pages) or under a folder (docs). *Just push the repo* and set the master/root as pages, gh automatically do the build and deploy
 
