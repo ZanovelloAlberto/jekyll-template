@@ -20,19 +20,19 @@
 
 # domain: my-site.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 
-title:              Alberto Zanovello
+title:              Jekyll template
 email:              zanovello2002@gmail.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/jekyll-test"
+description:        Jekyll template description
+author:             Alberto Zanovello
+baseurl:            "/jekyll-template"
 url:                "https://zanovelloalberto.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
-instagram_username:  
-linkedin_username:
+# twitter_username:   SBootstrap
+github_username:    ZanovelloAlberto
+# facebook_username:  StartBootstrap
+instagram_username:  _albertozanovello
+# linkedin_username:
 
 # Build settings
 theme: minima
