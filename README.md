@@ -7,9 +7,8 @@ Jekyll is a simple, blog-aware, static site generator perfect for personal, proj
 [minima](https://github.com/jekyll/minima)
 
 ### Example [nome - theme]
-[dart docs](https://github.com/dart-lang/site-www)
-
-[Blog - minima](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)
+- [dart docs](https://github.com/dart-lang/site-www)
+- [Blog - minima](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll)
 
 ### Tips
 you dont need to build in a new branch (gh-pages) or under a folder (docs).
