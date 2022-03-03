@@ -27,7 +27,7 @@ author:             Alberto Zanovello
 baseurl:            "/jekyll-template"
 url:                "https://zanovelloalberto.github.io"
 
-source: src
+source: ./src
 # Social Profiles
 # twitter_username:   SBootstrap
 github_username:    ZanovelloAlberto
