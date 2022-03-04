@@ -4,4 +4,4 @@ title: History
 permalink: /history/
 ---
 
-the history of my life
+adding file.md/html to the src/ make them be showed in the *nav bar* 
